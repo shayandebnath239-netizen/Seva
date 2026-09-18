@@ -1,0 +1,6 @@
+{
+  "name": "SEVA",
+  "description": "Understand. Prepare. Apply. Citizen-service guidance platform for India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
